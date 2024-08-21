@@ -1,12 +1,6 @@
 # Preview:
 https://cuhcodingclub.vercel.app/
 
-# Frontend repository:
-https://github.com/champalalsuthar/Coding_Club_Quiz_Frontend
-
-# Backend repository:
-https://github.com/champalalsuthar/Coding_Club_Quiz_Backend
-
 #  CODING CLUB WEBAPP <br/>
 • Developing a user-friendly web application.<br/>
 • Focuses on a quiz plaƞorm for the Coding Club at Central University of Haryana.</br>
